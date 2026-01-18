@@ -1,5 +1,9 @@
 # Bad Apple but it's Theotown
 
+## ▶️ Demo
+
+[![Bad Apple on TheoTown Demo](https://img.youtube.com/vi/r6ONJTTy-cU/0.jpg)](https://www.youtube.com/watch?v=r6ONJTTy-cU)
+
 ### Prerequisites
 
 Before running the script, you need to have the following command-line tools installed and available in your system's PATH:
