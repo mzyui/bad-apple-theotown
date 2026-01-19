@@ -35,11 +35,6 @@ This will use the `bad_apple.mp4` file in the current directory and generate the
 
 These instructions are for using the generated Lua script in TheoTown on Android.
 
-**Prerequisites:**
-
--   Your Android device must be **rooted**.
--   You have TheoTown installed.
-
 **Steps:**
 
 1.  **Generate the Script**: Run `python generate.py` on your computer. This will create directory containing the `render.lua` file.
